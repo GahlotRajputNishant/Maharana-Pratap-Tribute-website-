@@ -4,8 +4,7 @@ A simple, responsive tribute website dedicated to the great Indian warrior **Mah
 
 ## 🌐 Live Demo
 
-[Click here to visit the live site](https://your-username.github.io/maharana-pratap-tribute/)  
-*(Replace with your actual GitHub Pages URL)*
+[Click here to visit the live site]([(https://github.com/GahlotRajputNishant/Maharana-Pratap-Tribute-website-/)  
 
 ---
 
@@ -25,7 +24,7 @@ This project is a tribute to **Maharana Pratap**, the legendary Rajput king know
 - HTML5 🧱
 - CSS3 🎨
 
-No JavaScript or external frameworks — just pure frontend development.
+No JavaScript or external frameworks-just pure frontend development.
 
 ---
 
